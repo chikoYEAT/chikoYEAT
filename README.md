@@ -1,5 +1,5 @@
 # Aboutme.md
-```
+```LaTeX
 \documentclass{article}
 \usepackage[utf8]{inputenc}
 \usepackage{hyperref}
