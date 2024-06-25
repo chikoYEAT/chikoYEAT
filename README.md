@@ -6,8 +6,6 @@
 \usepackage{geometry}
 \usepackage{graphicx}
 \geometry{a4paper, margin=1in}
-\title{GitHub Profile: imanav10}
-\author{Manav}
 \begin{Aboutme.md}
 \maketitle
 \section*{About Me}
