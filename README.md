@@ -29,4 +29,5 @@ Hello! I'm \textbf{AManav}, a passionate developer and linux kernal enjoyer, lov
     \item Tools: Docker, Google Cloud, mangodB, redis, LaTeX
 \end{itemize}
 
-\end{document}```
+\end{document}
+```
