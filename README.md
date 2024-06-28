@@ -6,9 +6,9 @@
 \usepackage{geometry}
 \usepackage{graphicx}
 \geometry{a4paper, margin=1in}
-\begin{Aboutme.md}
+\begin{document}
 \maketitle
-\section*{About Me}
+\section* {About me}
 Hello! I'm \textbf{Manav}, a passionate developer and linux kernal enjoyer,
 love contributing to open source, and the tech community.
 \begin{itemize}
