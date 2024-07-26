@@ -1,6 +1,6 @@
 # AboutMe.huH
 
-In my learning phase
+🟥 ⬛ ⬛ ⬛ -- skill issues, In my learning phase
 <table><tr><td valign="top" width="33%">
 {About me}
 Hello! I'm Manav, a passionate developer and linux kernal enjoyer,
